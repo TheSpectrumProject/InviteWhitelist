@@ -1,6 +1,6 @@
 # InviteWhitelist
 InviteWL is a Bukkit plugin for Minecraft servers that manages player invitations. It allows players to invite others and enforces invitation-based access control during player login.
-
+For spigot 1.20+
 Features
 Invite Players: Use the /invite <name> command to invite players to the server. The plugin records the inviter's name and the time of invitation.
 Inspect Invitations: Use the /inviteinspect <name> command (requires OP permissions) to view the invitation record of a specified player, including who invited them and when, as well as any players they have invited.
