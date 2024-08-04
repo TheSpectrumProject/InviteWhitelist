@@ -1,0 +1,11 @@
+name: InviteWL
+main: org.spectrum.invitewl.InviteWL
+api-version: '1.20'
+version: 1.0
+commands:
+  invite:
+    description: Invite a player to the whitelist
+    usage: /invite <playername>
+  inviteinspect:
+    description: Inspect
+    usage: /invite <playername>
